@@ -1,6 +1,3 @@
-def dummy_function():
-    pass
-
 def first_non_repeating(str_r):
     dict={}
     size=len(str_r)
